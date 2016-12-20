@@ -1,0 +1,66 @@
+D:\TestPowerBIRest\TestPowerBIRest\bin\ApplicationInsights.config
+D:\TestPowerBIRest\TestPowerBIRest\bin\roslyn\csc.exe
+D:\TestPowerBIRest\TestPowerBIRest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TestPowerBIRest\TestPowerBIRest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TestPowerBIRest\TestPowerBIRest\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TestPowerBIRest\TestPowerBIRest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TestPowerBIRest\TestPowerBIRest\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TestPowerBIRest\TestPowerBIRest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TestPowerBIRest\TestPowerBIRest\bin\roslyn\System.Collections.Immutable.dll
+D:\TestPowerBIRest\TestPowerBIRest\bin\roslyn\System.Reflection.Metadata.dll
+D:\TestPowerBIRest\TestPowerBIRest\bin\roslyn\vbc.exe
+D:\TestPowerBIRest\TestPowerBIRest\bin\roslyn\VBCSCompiler.exe
+D:\TestPowerBIRest\TestPowerBIRest\bin\roslyn\VBCSCompiler.exe.config
+D:\TestPowerBIRest\TestPowerBIRest\bin\TestPowerBIRest.dll.config
+D:\TestPowerBIRest\TestPowerBIRest\bin\TestPowerBIRest.dll
+D:\TestPowerBIRest\TestPowerBIRest\bin\TestPowerBIRest.pdb
+D:\TestPowerBIRest\TestPowerBIRest\bin\Microsoft.AI.Agent.Intercept.dll
+D:\TestPowerBIRest\TestPowerBIRest\bin\Microsoft.AI.DependencyCollector.dll
+D:\TestPowerBIRest\TestPowerBIRest\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\TestPowerBIRest\TestPowerBIRest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\TestPowerBIRest\TestPowerBIRest\bin\Microsoft.AI.Web.dll
+D:\TestPowerBIRest\TestPowerBIRest\bin\Microsoft.AI.WindowsServer.dll
+D:\TestPowerBIRest\TestPowerBIRest\bin\Microsoft.ApplicationInsights.dll
+D:\TestPowerBIRest\TestPowerBIRest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TestPowerBIRest\TestPowerBIRest\bin\Microsoft.AI.DependencyCollector.xml
+D:\TestPowerBIRest\TestPowerBIRest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\TestPowerBIRest\TestPowerBIRest\bin\Microsoft.AI.Web.xml
+D:\TestPowerBIRest\TestPowerBIRest\bin\Microsoft.AI.WindowsServer.xml
+D:\TestPowerBIRest\TestPowerBIRest\bin\Microsoft.ApplicationInsights.xml
+D:\TestPowerBIRest\TestPowerBIRest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TestPowerBIRest\TestPowerBIRest\obj\Debug\TestPowerBIRest.csprojResolveAssemblyReference.cache
+D:\TestPowerBIRest\TestPowerBIRest\obj\Debug\TestPowerBIRest.dll
+D:\TestPowerBIRest\TestPowerBIRest\obj\Debug\TestPowerBIRest.pdb
+C:\SudhirData\Customers\PowerBI Hack\View360\TestPowerBIRest\TestPowerBIRest\TestPowerBIRest\bin\ApplicationInsights.config
+C:\SudhirData\Customers\PowerBI Hack\View360\TestPowerBIRest\TestPowerBIRest\TestPowerBIRest\bin\roslyn\csc.exe
+C:\SudhirData\Customers\PowerBI Hack\View360\TestPowerBIRest\TestPowerBIRest\TestPowerBIRest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\SudhirData\Customers\PowerBI Hack\View360\TestPowerBIRest\TestPowerBIRest\TestPowerBIRest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\SudhirData\Customers\PowerBI Hack\View360\TestPowerBIRest\TestPowerBIRest\TestPowerBIRest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\SudhirData\Customers\PowerBI Hack\View360\TestPowerBIRest\TestPowerBIRest\TestPowerBIRest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\SudhirData\Customers\PowerBI Hack\View360\TestPowerBIRest\TestPowerBIRest\TestPowerBIRest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\SudhirData\Customers\PowerBI Hack\View360\TestPowerBIRest\TestPowerBIRest\TestPowerBIRest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\SudhirData\Customers\PowerBI Hack\View360\TestPowerBIRest\TestPowerBIRest\TestPowerBIRest\bin\roslyn\System.Collections.Immutable.dll
+C:\SudhirData\Customers\PowerBI Hack\View360\TestPowerBIRest\TestPowerBIRest\TestPowerBIRest\bin\roslyn\System.Reflection.Metadata.dll
+C:\SudhirData\Customers\PowerBI Hack\View360\TestPowerBIRest\TestPowerBIRest\TestPowerBIRest\bin\roslyn\vbc.exe
+C:\SudhirData\Customers\PowerBI Hack\View360\TestPowerBIRest\TestPowerBIRest\TestPowerBIRest\bin\roslyn\VBCSCompiler.exe
+C:\SudhirData\Customers\PowerBI Hack\View360\TestPowerBIRest\TestPowerBIRest\TestPowerBIRest\bin\roslyn\VBCSCompiler.exe.config
+C:\SudhirData\Customers\PowerBI Hack\View360\TestPowerBIRest\TestPowerBIRest\TestPowerBIRest\bin\TestPowerBIRest.dll.config
+C:\SudhirData\Customers\PowerBI Hack\View360\TestPowerBIRest\TestPowerBIRest\TestPowerBIRest\bin\TestPowerBIRest.dll
+C:\SudhirData\Customers\PowerBI Hack\View360\TestPowerBIRest\TestPowerBIRest\TestPowerBIRest\bin\TestPowerBIRest.pdb
+C:\SudhirData\Customers\PowerBI Hack\View360\TestPowerBIRest\TestPowerBIRest\TestPowerBIRest\bin\Microsoft.AI.Agent.Intercept.dll
+C:\SudhirData\Customers\PowerBI Hack\View360\TestPowerBIRest\TestPowerBIRest\TestPowerBIRest\bin\Microsoft.AI.DependencyCollector.dll
+C:\SudhirData\Customers\PowerBI Hack\View360\TestPowerBIRest\TestPowerBIRest\TestPowerBIRest\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\SudhirData\Customers\PowerBI Hack\View360\TestPowerBIRest\TestPowerBIRest\TestPowerBIRest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\SudhirData\Customers\PowerBI Hack\View360\TestPowerBIRest\TestPowerBIRest\TestPowerBIRest\bin\Microsoft.AI.Web.dll
+C:\SudhirData\Customers\PowerBI Hack\View360\TestPowerBIRest\TestPowerBIRest\TestPowerBIRest\bin\Microsoft.AI.WindowsServer.dll
+C:\SudhirData\Customers\PowerBI Hack\View360\TestPowerBIRest\TestPowerBIRest\TestPowerBIRest\bin\Microsoft.ApplicationInsights.dll
+C:\SudhirData\Customers\PowerBI Hack\View360\TestPowerBIRest\TestPowerBIRest\TestPowerBIRest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\SudhirData\Customers\PowerBI Hack\View360\TestPowerBIRest\TestPowerBIRest\TestPowerBIRest\bin\Microsoft.AI.DependencyCollector.xml
+C:\SudhirData\Customers\PowerBI Hack\View360\TestPowerBIRest\TestPowerBIRest\TestPowerBIRest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\SudhirData\Customers\PowerBI Hack\View360\TestPowerBIRest\TestPowerBIRest\TestPowerBIRest\bin\Microsoft.AI.Web.xml
+C:\SudhirData\Customers\PowerBI Hack\View360\TestPowerBIRest\TestPowerBIRest\TestPowerBIRest\bin\Microsoft.AI.WindowsServer.xml
+C:\SudhirData\Customers\PowerBI Hack\View360\TestPowerBIRest\TestPowerBIRest\TestPowerBIRest\bin\Microsoft.ApplicationInsights.xml
+C:\SudhirData\Customers\PowerBI Hack\View360\TestPowerBIRest\TestPowerBIRest\TestPowerBIRest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\SudhirData\Customers\PowerBI Hack\View360\TestPowerBIRest\TestPowerBIRest\TestPowerBIRest\obj\Debug\TestPowerBIRest.csprojResolveAssemblyReference.cache
+C:\SudhirData\Customers\PowerBI Hack\View360\TestPowerBIRest\TestPowerBIRest\TestPowerBIRest\obj\Debug\TestPowerBIRest.dll
+C:\SudhirData\Customers\PowerBI Hack\View360\TestPowerBIRest\TestPowerBIRest\TestPowerBIRest\obj\Debug\TestPowerBIRest.pdb
